@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/benfernando/Desktop/fluid-bc/full-actual-fluid/master/increased-time-precision/SOLVER/src/ftz.c
+xmmintrin.h
+-
+
